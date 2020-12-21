@@ -1,1 +1,1 @@
-# Mnist_NLP
+# Mnist_MLP
